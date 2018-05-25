@@ -1,13 +1,8 @@
 /*
 *	Author: Aman Sehgal
-*	Student ID: 28082419
-*	Unit : FIT5139 Advanced Distributed and Parallel Systems 
-*	Semester : S1 2017
-*	University: Monash University
 *
-*	Date : 15/5/2017
-*
-*	Title: Averaging algorithm
+*	Title: MPI program for implementing averaging algorithm for distributed clock synchronisation on any number of (even or
+*		odd) processors.
 */
 
 #include <stdio.h> //For stdandard input ouput
